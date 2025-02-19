@@ -119,7 +119,7 @@ const controlAddRecipe = async function (newRecipe) {
 };
 
 const newFeature = function () {
-  console.log('new feature');
+  console.log('new feature added');
 };
 const init = function () {
   bookmarksview.addRenderHandler(controlBookmarks);
